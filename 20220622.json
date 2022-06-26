@@ -31,6 +31,10 @@
     {
       "name": "test",
       "url": "https://siwazyw.cc/api.php/provide/vod/at/xml"
+    },
+    {
+      "name": "test2",
+      "url": "https://caiji.523zyw.com/inc/api.php"
     }
   ],
   "caijizhan": [
@@ -49,6 +53,14 @@
     {
       "name": "8090采集",
       "url": "http://zy.yilans.net:8090/api.php"
+    },
+    {
+      "name": "test",
+      "url": "https://siwazyw.cc/api.php/provide/vod/at/xml"
+    },
+    {
+      "name": "test2",
+      "url": "https://caiji.523zyw.com/inc/api.php"
     }
   ],
   "lunbo": [
